@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**anji242006-spec/anji242006-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm A Anji 👋
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student at Sri Chaitanya Technical Campus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Python, AI & Machine Learning
+
+## Skills
+- Python
+- AI
+- Machine Learning
+- GitHub
+
+## Projects
+- AI Chatbot
+- Resume Analyzer
+- Sentiment Analysis
+- Spam Email Detector
+
+## Connect With Me
+LinkedIn:
+https://www.linkedin.com/in/anji-494250415
+
+⭐ Always learning and building new projects.
